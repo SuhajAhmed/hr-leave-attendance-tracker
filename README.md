@@ -36,3 +36,4 @@ A fully automated HR leave management system built in Google Sheets with Apps Sc
 2. Dashboard auto-calculates totals, pending count, and leave distribution
 3. Weekly trigger emails a PDF of the dashboard every Monday at 8 AM
 4. Expired pending requests are auto-rejected with one click
+4. Expired pending requests are auto-rejected with one click

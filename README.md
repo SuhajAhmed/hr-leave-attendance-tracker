@@ -10,7 +10,7 @@ A fully automated HR leave management system built in Google Sheets with Apps Sc
 - Configurable settings tab (email, allowances)
 
 ## Dashboard Preview
-![Dashboard](Screenshot_2026-06-12_221438.png)
+![Dashboard](Screenshot 2026-06-12 221153.png)
 
 ## Department Sheets
 
